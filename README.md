@@ -90,7 +90,7 @@ https://www.kaggle.com/datasets/reubensuju/celeb-df-v2/data
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/deepfake-video-detection.git
+git clone https://github.com/your-username/deepfake-video-detection.git](https://github.com/MrAkash/deepfake-video-detection.git
 cd deepfake-video-detection
 ```
 
